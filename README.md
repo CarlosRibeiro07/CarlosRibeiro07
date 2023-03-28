@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87D1DF&height=120&section=header"/>
 ## Olá! Eu sou o José Carlos Ribeiro 🖐️🧑🏿‍💻
 ### Meus contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-carlos-ribeiro-6a7878173/)
@@ -17,3 +18,4 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosribeiro07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado pela tecnologia e suas soluções para o dia a dia. 🚀
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87D1DF&height=120&section=footer"/>
