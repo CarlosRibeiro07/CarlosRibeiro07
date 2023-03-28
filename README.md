@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87D1DF&height=120&section=header"/>
 ## Olá! Eu sou o José Carlos Ribeiro 🖐️🧑🏿‍💻
+
 ### Meus contatos:
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-carlos-ribeiro-6a7878173/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribeirojc93@gmail.com)
 
