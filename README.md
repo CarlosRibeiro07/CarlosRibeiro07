@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87D1DF&height=120&section=header"/>
-## Olá! Eu sou o José Carlos Ribeiro 🖐️🧑🏿‍💻
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6FC0D0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Carlos+Ribeiro.;Sou+formado+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+muito+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ### Meus contatos:
 
@@ -19,5 +20,5 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosribeiro07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Apaixonado pela tecnologia e suas soluções para o dia a dia. 🚀
+Apaixonado pela tecnologia e suas soluções para o dia a dia. 🚀🧑🏿‍💻
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87D1DF&height=120&section=footer"/>
