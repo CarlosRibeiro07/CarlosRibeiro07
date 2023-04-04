@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87D1DF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5499C7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6FC0D0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Carlos+Ribeiro.;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+muito+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5499C7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Carlos+Ribeiro.;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+muito+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ### Meus contatos:
 
@@ -21,4 +21,4 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosribeiro07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado pela tecnologia e as suas soluções para o dia a dia. 🚀🧑🏿‍💻
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87D1DF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5499C7&height=120&section=footer"/>
